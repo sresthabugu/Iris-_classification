@@ -18,3 +18,10 @@ Model Selection: Select an appropriate machine learning algorithm for your class
 Model Training: Train the selected model using the training data. The model will learn to classify the iris flowers based on the provided features.
 
 Model Evaluation: Evaluate the trained model's performance using the testing data. Common evaluation metrics for classification tasks include accuracy, precision, recall, F1-score, and confusion matrix.
+
+These are the followiing tools and libraries used:
+>NumPy
+>Matplotlib
+>Seaborn
+>Pandas
+>scikit-learn (sklearn)
